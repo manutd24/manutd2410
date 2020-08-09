@@ -268,6 +268,8 @@ http://ws.flv.nimo.tv:80/live/su1599512427556r803c8e196969c0688aecbfcf32d604b3_h
  
 #EXTINF:-1 group-title=" KÊNH CA NHẠC & THỜI TRANG" tvg-logo="https://i.postimg.cc/wxsQVYV2/2-CHANNEL-V-HD.png",CHANNEL V
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8
+#EXTINF:-1 group-title=" KÊNH CA NHẠC & THỜI TRANG" tvg-logo="https://image.flaticon.com/icons/png/512/2010/2010590.png",KPOP
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/chunklist_w651969903.m3u8
 #EXTINF:-1 group-title=" KÊNH CA NHẠC & THỜI TRANG" tvg-logo="https://i.postimg.cc/D08nH3R5/2-MTV-2.png",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 group-title=" KÊNH CA NHẠC & THỜI TRANG" tvg-logo="https://i.postimg.cc/D08nH3R5/2-MTV-2.png",MTV BLOCK PARTY
@@ -276,6 +278,8 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 #EXTINF:-1 group-title=" KÊNH CA NHẠC & THỜI TRANG" tvg-logo="https://i.postimg.cc/D08nH3R5/2-MTV-2.png",MTV YO!
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
+#EXTINF:-1 group-title=" KÊNH CA NHẠC & THỜI TRANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png",XITE 
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w1518549065_b3328000_slNLD.m3u8
 
 #EXTINF:-1 group-title=" KÊNH CA NHẠC & THỜI TRANG " tvg-logo="https://i.imgur.com/WNsF7Xq.png",FASHION TV PG16
 http://fash1043.cloudycdn.services:80/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
