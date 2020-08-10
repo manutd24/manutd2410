@@ -321,6 +321,14 @@ http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/2S1jv8zw/K-1-HD.png",K+1 
 http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8 
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/wx1NqHNh/SCTV17-SSPORT.png" tvg-name="SCTV17 - S Sport", S Sport
+https://vtsstr3.tv24.vn/elive1/_definst_/SCTV17_HD_4/chunklist_w23564723.m3u8?uid=s2c526m574z5s4l5h4&
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/sDSgrSnr/SCTV22-HD.png" tvg-name="S SPORT 1", S Sport 1
+https://vtsstr3.tv24.vn/elive1/_definst_/SCTV22_HD_4/chunklist_w235634673.m3u8?uid=s2c526m574z5s4l5h4&
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/5yQbZs6C/SCTV15-SSPORT2.png" tvg-name="SCTV15 - S.Sport 2", S Sport 2
+https://vtsstr3.tv24.vn/elive/_definst_/SCTV_HD_TheThao_4/chunklist_w23564724_b2692000.m3u8?uid=s2c526m574z5s4l5h4&
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/xjNkr5r5/SCTV-BTV5-SSPORT3.png" tvg-name="S.Sport 3", S Sport 3
+https://vtsstr3.tv24.vn/elive1/_definst_/btv5_HD_4/chunklist_w235_b2692000.m3u8?uid=s2c526m574z5s4l5h4&
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/JjOGEr3.png",FOXSPORT ASIA 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/JjOGEr3.jpg",FOXSPORT ASIA 2
