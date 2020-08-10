@@ -328,10 +328,12 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/JjOGEr3.jpg",FOXSPORT ASIA 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTL_3nQ9UlMeddvKUEJ4jdt1409QFP2IvYp4g&usqp=CAU",DIEMASPORT 1
-http://136.243.177.164/DIEMASPORT/index.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Diema_Sport_2_logo.jpg",DIEMASPORT 2
-http://136.243.177.164/DIEMASPORT2/index.m3u8
+#EXTINF:-1 ,Матч! Футбол 1
+http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd
+#EXTINF:-1 ,Матч! Футбол 2
+http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
+#EXTINF:-1 ,Матч! Футбол 3
+http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.vivacom.bg/web/files/richeditor/max-sport-1-hd-371x230.png",MAXSPORT 1
 http://136.243.177.164/MAXSPORT1/index.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.vivacom.bg/web/files/richeditor/max-sport-2-hd-371x230.png",MAXSPORT 2
@@ -340,16 +342,14 @@ http://136.243.177.164/MAXSPORT2/index.m3u8
 http://136.243.177.164/MAXSPORT3/index.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/max-sport-4-hd-371x230.png",MAXSPORT 4
 http://136.243.177.164/MAXSPORT4/index.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cf/Digi-sport-1.png/revision/latest/scale-to-width-down/340?cb=20200404115616",DIGI SPORT 1 
-http://rstr0.teamnetwork.co/stream181/stream.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Digi_sport2.png/revision/latest?cb=20160630150937",DIGI SPORT 2
-http://rstr0.teamnetwork.co/stream182/stream.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/3/35/Digi_Sport_3_%282012-.n.v.%29.png/revision/latest?cb=20180919155257",DIGI SPORT 3 
-http://rstr0.teamnetwork.co/stream129/stream.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/max-sport-4-hd-37ng",SPORT 1 HU
-http://rstr0.teamnetwork.co/stream131/stream.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/max-sport-4-hd-371x23ng",SPORT 2 HU
-http://rstr0.teamnetwork.co/stream132/stream.m3u8
+#EXTINF:-1,Футбол 1
+http://31.40.16.230:8000/play/a304/index.m3u8
+#EXTINF:-1,Футбол 2
+http://31.40.16.230:8000/play/a305/index.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://31.128.159.6:5000/channel_239.1.13.1/index.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://31.128.159.6:5000/channel_239.1.13.2/index.m3u8
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",PREMIER FOOTBALL 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
