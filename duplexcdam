@@ -13,7 +13,6 @@ http://78.129.228.178/iptv/W8BFZWUSYA9R2X/222/index.m3u8
 http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
 
 
-
 #EXTINF:-1 group-title=" KÊNH VTV " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png",VTV1
 http://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title=" KÊNH VTV " tvg-logo="https://i.postimg.cc/nzsVmkqR/vtv2hd.png",VTV2
