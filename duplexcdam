@@ -10,8 +10,8 @@ https://cds.dailysport.pw/3/3.m3u8
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/YCd9yHtw/L5.jpg",LIVESPORTS 5
 http://78.129.228.178/iptv/W8BFZWUSYA9R2X/222/index.m3u8
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/J427bQx1/L6.jpg",LIVESPORTS 6
-http://78.129.228.178/iptv/W8BFZWUSYA9R2X/211/index.m3u8
-
+#http://78.129.228.178/iptv/W8BFZWUSYA9R2X/211/index.m3u8
+http://217.64.25.182:88/play/a01o/index.m3u8
 
 
 #EXTINF:-1 group-title=" KÊNH VTV " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png",VTV1
