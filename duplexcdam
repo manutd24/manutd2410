@@ -4,14 +4,13 @@ http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/cJJKsJFH/L2.jpg",LIVESPORTS 2
 http://fariszah.myq-see.com:8008/live/demo/demo/1941.ts
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/Y95jfzMG/L3.jpg",LIVESPORTS 3
-https://cds.dailysport.pw/1/1.m3u8
+https://cds.dailysport.pw/2/2.m3u8
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/15c4wFTX/L4.jpg",LIVESPORTS 4
-https://cds.dailysport.pw/3/3.m3u8
+https://cds.dailysport.pw/4/4.m3u8
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/YCd9yHtw/L5.jpg",LIVESPORTS 5
-http://78.129.228.178/iptv/W8BFZWUSYA9R2X/222/index.m3u8
+http://wp.highstream.club/edge/BTS1/chunks.m3u8
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/J427bQx1/L6.jpg",LIVESPORTS 6
-http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
-
+http://wp.highstream.club/edge/BTS2/chunks.m3u8
 
 #EXTINF:-1 group-title=" KÊNH VTV " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png",VTV1
 http://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
