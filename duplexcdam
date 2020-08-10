@@ -328,27 +328,19 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/JjOGEr3.jpg",FOXSPORT ASIA 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
-#EXTINF:-1 ,Матч! Футбол 1
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https\Er3.jpg",Матч! Футбол 1
 http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd
-#EXTINF:-1 ,Матч! Футбол 2
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="htt\r.com/JjOGEr3.jpg",Матч! Футбол 2
 http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
-#EXTINF:-1 ,Матч! Футбол 3
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https\m/JjOGEr3.jpg",Матч! Футбол 3
 http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.vivacom.bg/web/files/richeditor/max-sport-1-hd-371x230.png",MAXSPORT 1
-http://136.243.177.164/MAXSPORT1/index.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.vivacom.bg/web/files/richeditor/max-sport-2-hd-371x230.png",MAXSPORT 2
-http://136.243.177.164/MAXSPORT2/index.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/max-sport-3-hd-371x230.png",MAXSPORT 3
-http://136.243.177.164/MAXSPORT3/index.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/max-sport-4-hd-371x230.png",MAXSPORT 4
-http://136.243.177.164/MAXSPORT4/index.m3u8
-#EXTINF:-1,Футбол 1
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur",Футбол 1
 http://31.40.16.230:8000/play/a304/index.m3u8
-#EXTINF:-1,Футбол 2
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur",Футбол 2
 http://31.40.16.230:8000/play/a305/index.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur",EUROSPORT 1 
 http://31.128.159.6:5000/channel_239.1.13.1/index.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur",EUROSPORT 2 
 http://31.128.159.6:5000/channel_239.1.13.2/index.m3u8
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",PREMIER FOOTBALL 1
