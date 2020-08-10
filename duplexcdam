@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/WpS14VJq/L1.jpg",LIVESPORTS 1
-https://cds.dailysport.pw/10/10.m3u8
+https://cds.dailysport.pw/1/1.m3u8
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/cJJKsJFH/L2.jpg",LIVESPORTS 2
-https://cds.dailysport.pw/11/11.m3u8
+https://cds.dailysport.pw/3/3.m3u8
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/Y95jfzMG/L3.jpg",LIVESPORTS 3
 http://78.129.228.178/iptv/W8BFZWUSYA9R2X/222/index.m3u8
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/15c4wFTX/L4.jpg",LIVESPORTS 4
