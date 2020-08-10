@@ -32,6 +32,8 @@ http://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title=" KÊNH VTV " tvg-logo="https://i.postimg.cc/zXkNVM9D/vtv9hd.png",VTV9
 http://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title=" KÊNH VTV " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png",VTV1
+http://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
  
 #EXTINF:-1 group-title=" KÊNH VTC " tvg-logo="https://i.postimg.cc/xT7Ztg5j/VTC1.png",VTC1
 http://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
