@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/WpS14VJq/L1.jpg",LIVESPORTS 1
-http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
-#EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/cJJKsJFH/L2.jpg",LIVESPORTS 2
-http://fariszah.myq-see.com:8008/live/demo/demo/1941.ts
-#EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/Y95jfzMG/L3.jpg",LIVESPORTS 3
 https://cds.dailysport.pw/2/2.m3u8
-#EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/15c4wFTX/L4.jpg",LIVESPORTS 4
+#EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/cJJKsJFH/L2.jpg",LIVESPORTS 2
 https://cds.dailysport.pw/4/4.m3u8
+#EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/Y95jfzMG/L3.jpg",LIVESPORTS 3
+http://fariszah.myq-see.com:8008/live/demo/demo/1941.ts
+#EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/15c4wFTX/L4.jpg",LIVESPORTS 4
+http://fariszah.myq-see.com:8008/live/demo/demo/1942.ts
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/YCd9yHtw/L5.jpg",LIVESPORTS 5
 http://wp.highstream.club/edge/BTS1/chunks.m3u8
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/J427bQx1/L6.jpg",LIVESPORTS 6
