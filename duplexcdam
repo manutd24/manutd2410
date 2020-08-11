@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/WpS14VJq/L1.jpg",LIVESPORTS 1
-https://cds.dailysport.pw/2/2.m3u8
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/in-ten1/liveorigin/in-ten1_480/chunks.m3u8
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/cJJKsJFH/L2.jpg",LIVESPORTS 2
-https://cds.dailysport.pw/4/4.m3u8
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/in-ten2/liveorigin/in-ten2_480/chunks.m3u8
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/Y95jfzMG/L3.jpg",LIVESPORTS 3
 http://fariszah.myq-see.com:8008/live/demo/demo/1941.ts
 #EXTINF:-1 group-title=" LIVESPORTS " tvg-logo="https://i.postimg.cc/15c4wFTX/L4.jpg",LIVESPORTS 4
