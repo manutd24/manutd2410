@@ -385,6 +385,3 @@ https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/qutxrq1456636094.png",TENNIS CHANNEL 2
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:0  group-title="KÊNH THỂ THAO" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2011/05/espn_logo.png",ESPN MEX 3
-#EXTVLCOPT:http-referrer=https://www.movie1168.com/
-https://1168live.b-cdn.net/uk-skysports-epl_720/index.m3u8
