@@ -1,6 +1,6 @@
 #EXTM3U-Cộng Đồng App Mỹ
 #EXTINF:-1 group-title="  KÊNH VTV  " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png",VTV1
-http://j5fozccgpg.vcdn.com.vn/hls/vtv1-234lww.smil/ltou7ps.m3u8
+http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
 #EXTINF:-1 group-title="  KÊNH VTV  " tvg-logo="https://i.postimg.cc/nzsVmkqR/vtv2hd.png",VTV2
 http://j5fozccgpg.vcdn.com.vn/hls/vtv2-234ond.smil/oct8vzx.m3u8
 #EXTINF:-1 group-title="  KÊNH VTV  " tvg-logo="https://i.postimg.cc/mkCbXgX7/vtv3hd.png",VTV3
