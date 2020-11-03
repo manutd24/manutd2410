@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://api.b2c.mytvnet.vn/static/channel_by_id/207.png" group-title="Kênh VTVcab" tvg-name="VTVCab16 - Bóng Đá TV", VTVcab16 - Bóng Đá TV
+http://cdam.ddns.me:18061/mytvv.php?mf=302&p=111
+
+
+
 #EXTINF:0,📺📺📺 KÊNH VTV 📺📺📺
 #EXTGRP:unsorted
 http://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
