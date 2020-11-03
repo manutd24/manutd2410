@@ -18,7 +18,12 @@ https://vtsstr3.tv24.vn/elive1/_definst_/SCTV22_HD_4/chunklist_w235634673.m3u8?u
 https://vtsstr3.tv24.vn/elive/_definst_/SCTV_HD_TheThao_4/chunklist_w23564724_b2692000.m3u8?uid=s2c526m574z5s4l5h4&
 #EXTINF:-0,SSPORT 3
 https://vtsstr3.tv24.vn/elive1/_definst_/btv5_HD_4/chunklist_w235_b2692000.m3u8?uid=s2c526m574z5s4l5h4&
-
+#EXTINF:-0,FOXSPORTS ASIA
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
+#EXTINF:-0,FOXSPORTS ASIA 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
+#EXTINF:-0,FOXSPORTS ASIA 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 #EXTINF:0,📺📺📺 KÊNH VTV 📺📺📺
 #EXTGRP:unsorted
 http://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
@@ -97,3 +102,228 @@ https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:0,VTC16
 #EXTGRP:unsorted
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,📺📺📺 KÊNH HTV 📺📺📺
+#EXTGRP:unsorted
+http://
+#EXTINF:0,HTV 1
+#EXTGRP:unsorted
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,HTV 2
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+#EXTINF:0,HTV 3
+#EXTGRP:unsorted
+https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
+#EXTINF:0,HTV 4
+#EXTGRP:unsorted
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,HTV 7
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
+#EXTINF:0,HTV 9
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
+#EXTINF:0,HTV THỂ THAO
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+#EXTINF:0,📺📺📺 KÊNH HTVC 📺📺📺
+#EXTGRP:unsorted
+http://
+#EXTINF:0,HTVC PHIM
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
+#EXTINF:0,HTVC DU LỊCH
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
+#EXTINF:0,HTVC CA NHẠC
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
+#EXTINF:0,HTVC GIA ĐÌNH
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/HTVC-GIADINH-HD-1080p/chunks.m3u8
+#EXTINF:0,HTVC PHỤ NỮ
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
+#EXTINF:0,HTVC PLUS
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/HTVC-PLUS-HD-1080p/chunks.m3u8
+#EXTINF:0,HTVC THUẦN VIỆT SD
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
+#EXTINF:0,HTVC THUẦN VIỆT HD
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/chunks.m3u8
+#EXTINF:0,📺📺📺 KÊNH PHIM TRUYỆN 📺📺📺
+#EXTGRP:unsorted
+http://
+#EXTINF:0,HBO
+#EXTGRP:unsorted
+http://
+#EXTINF:0,CINEMAX
+#EXTGRP:unsorted
+http://
+#EXTINF:0,REB BY HBO
+#EXTGRP:unsorted
+http://
+#EXTINF:0,BOX MOVIE 1
+#EXTGRP:unsorted
+http://
+#EXTINF:0,HOLLYWOOD CLASSIC
+#EXTGRP:unsorted
+http://
+#EXTINF:0,FOX
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:0,FOX MOVIES
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:0,FOX MOVIE FAMILY
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:0,FOX LIFE
+#EXTGRP:unsorted
+http://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,AXN
+#EXTGRP:unsorted
+https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,KIX
+#EXTGRP:unsorted
+http://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,WARNER TV
+#EXTGRP:unsorted
+http://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,CINEMAWORLD
+#EXTGRP:unsorted
+http://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,BLUE ANT EXTREME
+#EXTGRP:unsorted
+http://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,BLUE ANT ENTERTAINMENT
+#EXTGRP:unsorted
+http://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,📺📺📺 KÊNH THỜI TRANG 📺📺📺
+#EXTGRP:unsorted
+http://
+#EXTINF:0,FASHION TV PG16
+#EXTGRP:unsorted
+http://fash1043.cloudycdn.services:80/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0,FASHION TOP MODEL
+#EXTGRP:unsorted
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0,FASHION TV PG13
+#EXTGRP:unsorted
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0,FASHION MIDNIGHT
+#EXTGRP:unsorted
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0,📺📺📺 KÊNH CA NHẠC 📺📺📺
+#EXTGRP:unsorted
+http://
+#EXTINF:0,CHANNEL V
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8
+#EXTINF:0,MTV
+#EXTGRP:unsorted
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:0,MTV BLOCK PARTY
+#EXTGRP:unsorted
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
+#EXTINF:0,MTV BIGGEST POP
+#EXTGRP:unsorted
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:0,MTV YO!
+#EXTGRP:unsorted
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
+#EXTINF:0,📺📺📺 KÊNH THIẾU NHI 📺📺📺
+#EXTGRP:unsorted
+http://
+#EXTINF:0,CARTOON NETWORK
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+#EXTINF:0,DAVINCY KIDS
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/DAVINCY-HD-1080p/chunks.m3u8
+#EXTINF:0,BOOMERANG
+#EXTGRP:unsorted
+http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,HAPPY KIDS
+#EXTGRP:unsorted
+http://
+#EXTINF:0,DISNEY CHANNEL
+#EXTGRP:unsorted
+http://
+#EXTINF:0,DISNEY JUNIOR
+#EXTGRP:unsorted
+http://
+#EXTINF:0,📺📺📺 KÊNH DU LỊCH 📺📺📺
+#EXTGRP:unsorted
+http://
+#EXTINF:0,ANIMAL PLANET
+#EXTGRP:unsorted
+http://203.162.235.46:19004/hls/EROSPORTNEWS_HD/playlist.m3u8
+#EXTINF:0,ASIA FOOD CHANNEL
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:0,DISCOVERY ASIA
+#EXTGRP:unsorted
+http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,NAT GEO
+#EXTGRP:unsorted
+http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,NAT GEO WILD
+#EXTGRP:unsorted
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/05.m3u8
+#EXTINF:0,BBC LIFESTYLE
+#EXTGRP:unsorted
+http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:0,BBC EARTH
+#EXTGRP:unsorted
+http://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,📺📺📺 KÊNH TIN TỨC 📺📺📺
+#EXTGRP:unsorted
+http://
+#EXTINF:0,NHÂN DÂN
+#EXTGRP:unsorted
+https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,ANTV
+#EXTGRP:unsorted
+https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,QPVN
+#EXTGRP:unsorted
+https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,QUỐC HỘI
+#EXTGRP:unsorted
+https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,VNEWS
+#EXTGRP:unsorted
+https://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,VOV TV
+#EXTGRP:unsorted
+https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
+#EXTINF:0,📺📺📺 KÊNH ĐỊA PHƯƠNG 📺📺📺
+#EXTGRP:unsorted
+http://
+#EXTINF:0,HÀ NỘI 1
+#EXTGRP:unsorted
+http://cdn.hntv.mediatech.vn:80/hntvlive/tv1live.m3u8?vhost=__defaultVhost__
+#EXTINF:0,HÀ NỘI 2
+#EXTGRP:unsorted
+http://cdn.hntv.mediatech.vn:80/hntvlive/tv2live.m3u8?vhost=__defaultVhost__
+#EXTINF:0,VĨNH LONG 1
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/THVL1-HD-1080p/chunks.m3u8
+#EXTINF:0,VĨNH LONG 2
+#EXTGRP:unsorted
+http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/THVL2-HD-1080p/chunks.m3u8
+#EXTINF:0,ĐÀ NẴNG 1
+#EXTGRP:unsorted
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:0,ĐÀ NẴNG 2
+#EXTGRP:unsorted
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:0,BÌNH DƯƠNG 1
+#EXTGRP:unsorted
+http://live.cdn.mobifonetv.vn/motv/mybtv1_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,BÌNH DƯƠNG 2
+#EXTGRP:unsorted
+http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/chunklist_b1200000.m3u8
