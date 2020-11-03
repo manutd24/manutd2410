@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1, BÓNG ĐÁ TV HD
+#EXTINF:-0, BÓNG ĐÁ TV HD
 http://mf=265&p=111
-#EXTINF:-1,THỂ THAO TV HD
+#EXTINF:-0,THỂ THAO TV HD
 http://mf=264&p=111
-#EXTINF:-1,THỂ THAO TIN TỨC HD
+#EXTINF:-0,THỂ THAO TIN TỨC HD
 http://mf=496&p=111
-#EXTINF:-1,THỂ THAO GOLF HD
+#EXTINF:-0,THỂ THAO GOLF HD
 http://mf=485&p=111
-#EXTINF:-1,SSPORT
+#EXTINF:-0,SSPORT
 https://vtsstr3.tv24.vn/elive1/_definst_/SCTV17_HD_4/chunklist_w23564723.m3u8?uid=s2c526m574z5s4l5h4&
-#EXTINF:-1,SSPORT 1
+#EXTINF:-0,SSPORT 1
 https://vtsstr3.tv24.vn/elive1/_definst_/SCTV22_HD_4/chunklist_w235634673.m3u8?uid=s2c526m574z5s4l5h4&
-#EXTINF:-1,SSPORT 2
+#EXTINF:-0,SSPORT 2
 https://vtsstr3.tv24.vn/elive/_definst_/SCTV_HD_TheThao_4/chunklist_w23564724_b2692000.m3u8?uid=s2c526m574z5s4l5h4&
-#EXTINF:-1,SSPORT 3
+#EXTINF:-0,SSPORT 3
 https://vtsstr3.tv24.vn/elive1/_definst_/btv5_HD_4/chunklist_w235_b2692000.m3u8?uid=s2c526m574z5s4l5h4&
 
 #EXTINF:0,📺📺📺 KÊNH VTV 📺📺📺
