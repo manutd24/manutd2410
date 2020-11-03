@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,📺📺📺 KÊNH VTV 📺📺📺
 #EXTGRP:unsorted
-http://
+http://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,VTV1
 #EXTGRP:unsorted
 http://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
