@@ -248,7 +248,7 @@ http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/DAVINCY-HD-1080p/chunks.m3u8
 http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,HAPPY KIDS
 #EXTGRP:unsorted
-http://
+http://cdammedia.ddns.me/cliptv/ts.m3u8?id=824
 #EXTINF:0,DISNEY CHANNEL
 #EXTGRP:unsorted
 http://
@@ -260,7 +260,7 @@ http://
 http://
 #EXTINF:0,ANIMAL PLANET
 #EXTGRP:unsorted
-http://203.162.235.46:19004/hls/EROSPORTNEWS_HD/playlist.m3u8
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,ASIA FOOD CHANNEL
 #EXTGRP:unsorted
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
@@ -272,7 +272,7 @@ http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3
 http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,NAT GEO WILD
 #EXTGRP:unsorted
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/05.m3u8
+http://cdammedia.ddns.me/cliptv/ts.m3u8?id=809
 #EXTINF:0,BBC LIFESTYLE
 #EXTGRP:unsorted
 http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
