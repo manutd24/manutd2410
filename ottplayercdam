@@ -32,7 +32,7 @@ http://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab1_SD_4/chunklist_w2356346723.m3u8
 #EXTINF:0,VTV2
 #EXTGRP:unsorted
-http://cdam.ddns.me:18061/mytvv.php?mf=339&p=111
+http://cdam.
 #EXTINF:0,VTV3
 #EXTGRP:unsorted
 http://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
