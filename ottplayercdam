@@ -130,28 +130,28 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 #EXTGRP:unsorted
 http://
 #EXTINF:0,HTVC PHIM
-#EXTGRP:unsorted
+#EXTGRP:KÊNH HTVC
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:0,HTVC DU LỊCH
-#EXTGRP:unsorted
+#EXTGRP:KÊNH HTVC
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
 #EXTINF:0,HTVC CA NHẠC
-#EXTGRP:unsorted
+#EXTGRP:KÊNH HTVC
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 #EXTINF:0,HTVC GIA ĐÌNH
-#EXTGRP:unsorted
+#EXTGRP:KÊNH HTVC
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/HTVC-GIADINH-HD-1080p/chunks.m3u8
 #EXTINF:0,HTVC PHỤ NỮ
-#EXTGRP:unsorted
+#EXTGRP:KÊNH HTVC
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
 #EXTINF:0,HTVC PLUS
-#EXTGRP:unsorted
+#EXTGRP:KÊNH HTVC
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/HTVC-PLUS-HD-1080p/chunks.m3u8
 #EXTINF:0,HTVC THUẦN VIỆT SD
-#EXTGRP:unsorted
+#EXTGRP:KÊNH HTVC
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
 #EXTINF:0,HTVC THUẦN VIỆT HD
-#EXTGRP:unsorted
+#EXTGRP:KÊNH HTVC
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/chunks.m3u8
 #EXTINF:0,📺📺📺 KÊNH PHIM TRUYỆN 📺📺📺
 #EXTGRP:unsorted
