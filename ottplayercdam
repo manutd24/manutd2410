@@ -201,24 +201,24 @@ http://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,BLUE ANT ENTERTAINMENT
 #EXTGRP:unsorted
 http://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0,📺📺📺 KÊNH THỜI TRANG 📺📺📺
+#EXTINF:0,FASHION TV
 #EXTGRP:unsorted
-http://
-#EXTINF:0,FASHION TV PG16
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0,FASHION PARIS
 #EXTGRP:unsorted
-http://fash1043.cloudycdn.services:80/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:0,FASHION TOP MODEL
 #EXTGRP:unsorted
-http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
 #EXTINF:0,FASHION TV PG13
 #EXTGRP:unsorted
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:0,FASHION MIDNIGHT
 #EXTGRP:unsorted
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:0,📺📺📺 KÊNH CA NHẠC 📺📺📺
+#EXTINF:0,KPOP
 #EXTGRP:unsorted
-http://
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/chunklist_w90668507.m3u8
 #EXTINF:0,CHANNEL V
 #EXTGRP:unsorted
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8
