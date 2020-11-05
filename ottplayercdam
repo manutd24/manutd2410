@@ -285,6 +285,12 @@ http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/THVL1-HD-1080p/chunks.m3u8
 #EXTINF:0,VĨNH LONG 2
 #EXTGRP:unsorted
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/THVL2-HD-1080p/chunks.m3u8
+#EXTINF:0,VĨNH LONG 3
+#EXTGRP:unsorted
+https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,VĨNH LONG 4
+#EXTGRP:unsorted
+https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,ĐÀ NẴNG 1
 #EXTGRP:unsorted
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
@@ -293,7 +299,7 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:0,BÌNH DƯƠNG 1
 #EXTGRP:unsorted
-http://live.cdn.mobifonetv.vn/motv/mybtv1_hls.smil/chunklist_b1200000.m3u8
+https://livecdn.fptplay.net/hda/btv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,BÌNH DƯƠNG 2
 #EXTGRP:unsorted
-http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/chunklist_b1200000.m3u8
+https://livecdn.fptplay.net/hda/btv2_hls.smil/chunklist_b2500000.m3u8
