@@ -230,10 +230,10 @@ http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 http://cdammedia.ddns.me/cliptv/ts.m3u8?id=824
 #EXTINF:0,DISNEY CHANNEL
 #EXTGRP:unsorted
-http://
+http://cdam.m3u8
 #EXTINF:0,DISNEY JUNIOR
 #EXTGRP:unsorted
-http://
+http://cdam.m3u8
 #EXTINF:0,ANIMAL PLANET
 #EXTGRP:unsorted
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
