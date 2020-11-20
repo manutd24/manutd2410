@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-0, BÓNG ĐÁ TV HD
-http://cdam.m3u8
-#EXTINF:-0,THỂ THAO TV HD
-http://cdam.m3u8
-#EXTINF:-0,THỂ THAO TIN TỨC HD
-http://cdam.m3u8
-#EXTINF:-0,THỂ THAO GOLF HD
-http://cdam.m3u8
 #EXTINF:-0,SSPORT
 https://vtsstr3.tv24.vn/elive1/_definst_/SCTV17_HD_4/chunklist_w23564723.m3u8?uid=s2c526m574z5s4l5h4&
 #EXTINF:-0,SSPORT 1
@@ -21,6 +13,18 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-0,FOXSPORTS ASIA 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
+#EXTINF:-0,MATCH FUTBOL 1
+http://5e4edcb9.kartoshkaka.ru/iptv/GGU5EZDR62GUWC/222/index.m3u8
+#EXTINF:-0,MATCH FUTBOL 2
+http://5e4edcb9.kartoshkaka.ru/iptv/GGU5EZDR62GUWC/211/index.m3u8
+#EXTINF:-0,MATCH FUTBOL 3
+http://5e4edcb9.kartoshkaka.ru/iptv/GGU5EZDR62GUWC/206/index.m3u8
+#EXTINF:-0,RMC 1
+http://5e4edcb9.kartoshkaka.ru/iptv/GGU5EZDR62GUWC/2546/index.m3u8
+#EXTINF:-0,RMC 2
+http://5e4edcb9.kartoshkaka.ru/iptv/GGU5EZDR62GUWC/2547/index.m3u8
+#EXTINF:-0,RMC 3
+http://5e4edcb9.kartoshkaka.ru/iptv/GGU5EZDR62GUWC/2545/index.m3u8
 #EXTINF:0,VTV1
 #EXTGRP:unsorted
 http://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
@@ -140,19 +144,19 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/chunks.m3u8
 #EXTINF:0,HBO
 #EXTGRP:unsorted
-http://
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:0,CINEMAX
 #EXTGRP:unsorted
-http://
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:0,REB BY HBO
 #EXTGRP:unsorted
-http://
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:0,BOX MOVIE 1
 #EXTGRP:unsorted
-http://cdammedia.ddns.me/cliptv/ts.m3u8?id=822
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:0,HOLLYWOOD CLASSIC
 #EXTGRP:unsorted
-http://cdammedia.ddns.me/cliptv/ts.m3u8?id=825
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:0,FOX
 #EXTGRP:unsorted
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
@@ -230,10 +234,10 @@ http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 http://cdammedia.ddns.me/cliptv/ts.m3u8?id=824
 #EXTINF:0,DISNEY CHANNEL
 #EXTGRP:unsorted
-http://cdam.m3u8
+https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:0,DISNEY JUNIOR
 #EXTGRP:unsorted
-http://cdam.m3u8
+http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8
 #EXTINF:0,ANIMAL PLANET
 #EXTGRP:unsorted
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
