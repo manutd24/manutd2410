@@ -13,20 +13,22 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-0,FOXSPORTS ASIA 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
-#EXTINF:-0,TRUE PREMIER 1
-https://sport.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-0,TRUE PREMIER 2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-0,CHAMPION TV 1
+https://oxoo.lk21tvonlineid.com/m3u/champion1.m3u8
+#EXTINF:-0,CHAMPION TV 2
+https://oxoo.lk21tvonlineid.com/m3u/champion2.m3u8
 #EXTINF:-0,BEINSPORT 1
 https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
 #EXTINF:-0,BEINSPORT 2
 https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
-#EXTINF:-0,MATCH FUTBOL 1
-http://192.162.212.48/football1_hd/index.m3u8
-#EXTINF:-0,MATCH FUTBOL 2
-http://192.162.212.48/football2_hd/index.m3u8
-#EXTINF:-0,MATCH FUTBOL 3
-http://192.162.212.48/football3_hd/index.m3u8
+#EXTINF:-0,JSPORT 1
+http://193.42.99.130:23455/3640/playlist.m3u8
+#EXTINF:-0,JSPORT 2
+http://193.42.99.130:23455/3650/playlist.m3u8
+#EXTINF:-0,JSPORT 3
+http://193.42.99.130:23455/3660/playlist.m3u8
+#EXTINF:-0,JSPORT 4
+http://193.42.99.130:23455/3670/playlist.m3u8
 #EXTINF:0,VTV1
 #EXTGRP:unsorted
 http://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
