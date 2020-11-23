@@ -15,14 +15,11 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-0,FOXSPORTS ASIA 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
-#EXTINF:-0,CHAMPION TV 1
-https://oxoo.lk21tvonlineid.com/m3u/champion1.m3u8
-#EXTINF:-0,CHAMPION TV 2
-https://oxoo.lk21tvonlineid.com/m3u/champion2.m3u8
-#EXTINF:-0,BEINSPORT 1
-https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
-#EXTINF:-0,BEINSPORT 2
-https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
+#EXTINF:-0,MATCH FUTBOL 1
+http://cdntv.online/high/exp4q9yadw/55.m3u8
+#EXTINF:-0,MATCH FUTBOL 2
+http://cdntv.online/high/exp4q9yadw/56.m3u8
+#EXTINF:-0,MATCH FUTBOL 3
 #EXTINF:-0,JSPORT 1
 http://193.42.99.130:23455/3640/playlist.m3u8
 #EXTINF:-0,JSPORT 2
