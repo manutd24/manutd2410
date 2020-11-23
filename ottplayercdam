@@ -15,15 +15,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-0,FOXSPORTS ASIA 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
-
-#EXTINF:-0,JSPORT 1
-http://193.42.99.130:23455/3640/playlist.m3u8
-#EXTINF:-0,JSPORT 2
-http://193.42.99.130:23455/3650/playlist.m3u8
-#EXTINF:-0,JSPORT 3
-http://193.42.99.130:23455/3660/playlist.m3u8
-#EXTINF:-0,JSPORT 4
-http://193.42.99.130:23455/3670/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1 HD" tvg-logo="http://runnel.ir/ax/logo/beIN1-Small.png",Bein Sports 1 HD
 http://sarhantv.xyz:25461/live/mahdi/mahdi/1.ts
 #EXTINF:-1 tvg-name="Bein Sports 2 HD" tvg-logo="http://runnel.ir/ax/logo/beIN2-Small.png",Bein Sports 2 HD
