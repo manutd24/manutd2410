@@ -177,7 +177,7 @@ https://sctv.ddns.net/sctv.m3u8/vtsstr4.php?l=https://vtsstr1.tv24.vn/live/SCTV_
 https://vtsstr6.tv24.vn/live/_definst_/sctv2_HD_4/chunklist_w2356346723.m3u8
 #EXTINF:0,SCTV 3
 #EXTGRP:KÊNH SCTV
-https://vtsstr6.tv24.vn/live/_definst_/SCTVHDThieunhi_4/chunklist_w2356346723.m3u8
+http://vtsstr6.tv24.vn:1935/live/SCTVHDThieunhi_4/playlist.m3u8?uid=coocaa&tokenhash=chomlinklaxau
 #EXTINF:0,SCTV 4
 #EXTGRP:KÊNH SCTV
 https://vtsstr3.tv24.vn/elive1/_definst_/SCTV_HD_GiaiTri_4/chunklist_w23563467.m3u8?uid=s2c526m574z5s4l5h4&amp;
