@@ -171,7 +171,7 @@ http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/chunk
 https://vtsstr1.tv24.vn/live/_definst_/SCTVHDPhimTH_4/chunklist_w2356346723.m3u8
 #EXTINF:0,SCTV 1
 #EXTGRP:KÊNH SCTV
-https://vtsstr1.tv24.vn/live/_definst_/SCTV_HD_Hai_4/chunklist_w2356346723.m3u8
+https://sctv.ddns.net/sctv.m3u8/vtsstr4.php?l=https://vtsstr1.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
 #EXTINF:0,SCTV 2
 #EXTGRP:KÊNH SCTV
 https://vtsstr6.tv24.vn/live/_definst_/sctv2_HD_4/chunklist_w2356346723.m3u8
