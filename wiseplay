@@ -334,19 +334,19 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
 #EXTINF:0,FASHION TV
 #EXTGRP:KÊNH CA NHẠC - THỜI TRANG
-https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:0,FASHION PARIS
 #EXTGRP:KÊNH CA NHẠC - THỜI TRANG
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/chunklist_b2878000_t64RGVmYXVsdA==.m3u8
 #EXTINF:0,FASHION TV PG13
 #EXTGRP:KÊNH CA NHẠC - THỜI TRANG
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:0,FASHION TOP MODEL
 #EXTGRP:KÊNH CA NHẠC - THỜI TRANG
-https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_africa_2_s6g_43071_default_1204_hls.smil/chunklist_b2878000_t64RGVmYXVsdA==.m3u8
 #EXTINF:0,FASHION MIDNIGHT
 #EXTGRP:KÊNH CA NHẠC - THỜI TRANG
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:0,CARTOON NETWORK
 #EXTGRP:KÊNH THIẾU NHI - DU LỊCH
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
