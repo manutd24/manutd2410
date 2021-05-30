@@ -68,6 +68,17 @@ http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:0,SPORTTV 4
 #EXTGRP:KÊNH THỂ THAO
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:0,MATCH 1
+#EXTGRP:KÊNH THỂ THAO
+http://gg.gg/M111111
+#EXTINF:0,MATCH 2
+#EXTGRP:KÊNH THỂ THAO
+http://gg.gg/M2222222
+#EXTINF:0,MATCH 3
+#EXTGRP:KÊNH THỂ THAO
+http://gg.gg/M3333333
+
+
 #EXTINF:0,VTV1
 #EXTGRP:KÊNH VTV
 http://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
